@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Laisky Cai
 
-[![Blog](https://img.shields.io/badge/Blog-dontpanic.blog-blue?logo=wordpress&style=flat-square)](https://blog.laisky.com)
+[![Blog](https://img.shields.io/badge/Blog-Laisky.blog-blue?logo=wordpress&style=flat-square)](https://blog.laisky.com)
 
 
 
