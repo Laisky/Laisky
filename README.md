@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Laisky Cai
 
-Software Engineer from 2014, familiar with Golang & Python. Recently working on Trusted Execution Environment(TEE) / Confidential Computing / Blockchain Protocol / Zero-Trust Infrastructure / Data Privacy.
+Software Engineer since 2014, familiar with Golang & Python & ECMAScript. Recently working on Trusted Execution Environment(TEE) / Confidential Computing / Blockchain Protocol / Zero-Trust Infrastructure / Data Privacy.
 
 > Humanity's greatest power lies in imagination, which birthed from insight and creativity.
 
